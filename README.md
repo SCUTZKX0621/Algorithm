@@ -1,2 +1,2 @@
 # Algorithm
-This is the code of some classic algorithms, with more detailed comments. Welcome to study and discuss.
+最小生成树的两类算法：Kruskal与Prim算法，二者都基于贪心思想建立，较为经典，欢迎大家学习讨论。
